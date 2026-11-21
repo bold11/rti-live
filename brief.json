@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "as_of": "2026-11-20",
+  "universe_size": 317,
+  "overview": "Screen favors defensive/utility momentum names and select growth/cyclical turnarounds. WMT, DIS, ED, WEC, PG show strong short-term momentum with high vol_surge, though insider selling and workforce cuts (PG, DIS) warrant caution. OKTA and DD stand out with dual short/long strength and clean news. MRNA, MPC, VLO offer long-term value but weak near-term momentum and refining-sector softness.",
+  "short": [
+    { "rank": 1, "symbol": "WMT", "conviction": "high", "thesis": "Raised guidance plus earnings beat confirms strong momentum and consistency score.", "entry": "Buy on any pullback toward 122-123 support; size normally given low volatility.", "risks": "Guidance could prove overly optimistic into holiday season spend slowdown." },
+    { "rank": 2, "symbol": "OKTA", "conviction": "high", "thesis": "Strong 3m/6m momentum with analyst price target raises and solid sharpe.", "entry": "Enter near current levels or on dip to 195; watch for RSI cooling as confirmation.", "risks": "High beta tech name vulnerable to broad market de-risking." },
+    { "rank": 3, "symbol": "ED", "conviction": "medium", "thesis": "Utility momentum strong with analyst upgrade, though share issuance dilutes.", "entry": "Small position size due to dilution overhang; buy near 117 support.", "risks": "New equity offering caps near-term upside and signals capital need." }
+  ],
+  "long": [
+    { "rank": 1, "symbol": "DD", "conviction": "high", "thesis": "Strong long score with excellent 6m/12m momentum, high consistency and sharpe, clean news.", "entry": "Accumulate on dips toward 145; invalidated if trend breaks below 200d SMA.", "risks": "Industrial cyclicality could pressure if macro slows." },
+    { "rank": 2, "symbol": "OKTA", "conviction": "high", "thesis": "Top-tier long score combined with strong trend and analyst support.", "entry": "Core long-term holding; add on weakness below 200.", "risks": "Valuation remains rich relative to software peers." },
+    { "rank": 3, "symbol": "MRNA", "conviction": "low", "thesis": "Huge 12m momentum and sharpe but recent insider selling and negative 1m momentum are concerning.", "entry": "Small starter position only; wait for RSI to stabilize above 45.", "risks": "Pipeline binary catalysts and insider selling of $16.9M raise red flags." }
+  ],
+  "avoid": [
+    { "symbol": "PG", "reason": "Large workforce cuts (20-30%) signal deeper restructuring issues despite positive momentum score." },
+    { "symbol": "DIS", "reason": "CEO share sale filing and lost World Cup bid create mixed signals despite momentum." },
+    { "symbol": "WEC", "reason": "Insider selling and weak mom_12_1 undercut the short-term score." },
+    { "symbol": "VLO", "reason": "Negative short-term momentum and weak RSI despite decent long score; refining headwinds." },
+    { "symbol": "MPC", "reason": "Negative momentum, deep RSI oversold, no confirming news; wait for stabilization." }
+  ],
+  "screen": {
+    "short": [
+      { "symbol": "WMT", "score": 1.52, "r3m": 0.22, "rsi": 60 },
+      { "symbol": "OKTA", "score": 1.44, "r3m": 0.53, "rsi": 58 },
+      { "symbol": "ED", "score": 1.43, "r3m": 0.12, "rsi": 59 },
+      { "symbol": "DIS", "score": 1.40, "r3m": 0.12, "rsi": 63 },
+      { "symbol": "WEC", "score": 1.40, "r3m": 0.10, "rsi": 58 },
+      { "symbol": "PG", "score": 1.40, "r3m": 0.16, "rsi": 58 },
+      { "symbol": "EW", "score": 1.37, "r3m": 0.16, "rsi": 66 },
+      { "symbol": "IDXX", "score": 1.33, "r3m": 0.24, "rsi": 64 },
+      { "symbol": "COST", "score": 1.30, "r3m": 0.15, "rsi": 68 },
+      { "symbol": "DUK", "score": 1.29, "r3m": 0.08, "rsi": 60 }
+    ],
+    "long": [
+      { "symbol": "MRNA", "score": 2.00, "r3m": 0.37, "rsi": 42 },
+      { "symbol": "DD", "score": 1.94, "r3m": 0.08, "rsi": 59 },
+      { "symbol": "OKTA", "score": 1.55, "r3m": 0.53, "rsi": 58 },
+      { "symbol": "MPC", "score": 1.40, "r3m": 0.02, "rsi": 34 },
+      { "symbol": "VLO", "score": 1.36, "r3m": -0.03, "rsi": 35 },
+      { "symbol": "TGT", "score": 1.23, "r3m": 0.01, "rsi": 62 },
+      { "symbol": "PSX", "score": 1.20, "r3m": -0.004, "rsi": 36 },
+      { "symbol": "DELL", "score": 1.19, "r3m": -0.29, "rsi": 33 },
+      { "symbol": "HPE", "score": 1.15, "r3m": -0.15, "rsi": 35 },
+      { "symbol": "MU", "score": 0.99, "r3m": -0.29, "rsi": 36 }
+    ]
+  },
+  "disclaimer": "Automated research by regime-trader. Not financial advice; nothing is traded automatically."
+}
