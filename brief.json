@@ -1,32 +1,32 @@
 {
   "schema": 1,
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-25",
   "universe_size": 317,
-  "overview": "Screen favors defensive/quality momentum (WMT, PG, ED) alongside strong trend names in biotech/industrials/security (MRNA, DD, OKTA). Refiners (MPC, VLO) show deep long-term momentum but weak short-term/oversold RSI, suggesting a refining pullback. News mostly benign with sell-side support; no major red flags, though EW faces 2027 guidance scrutiny and IDXX long-term score is negative.",
+  "overview": "Screen favors defensive/staples momentum (WMT, DLTR, PG) alongside biotech/healthcare strength (MRNA, REGN) and overbought conditions across several names (RSI 65-71). Energy refiners (MPC, VLO) show strong long-term trend scores but weak short-term momentum and oversold RSI, consistent with near-term pullback. DD and OKTA offer balanced long-term quality setups. News flow is broadly supportive with no major red flags, though high RSI levels warrant disciplined entries rather than chasing.",
   "short": [
     {
       "rank": 1,
       "symbol": "WMT",
       "conviction": "high",
-      "thesis": "Strong vol-adjusted momentum, consistent uptrend, and positive sell-side attention support continuation into holiday season.",
-      "entry": "Buy on dips toward 126-127 (near SMA support); size normally given low volatility.",
-      "risks": "Insider selling and elevated RSI (67) raise near-term pullback risk."
+      "thesis": "Strong vol-adjusted momentum and consistency with fresh AI/automation catalysts (Muse assistant, Symbotic expansion) supporting continued institutional interest.",
+      "entry": "RSI 71 is stretched; wait for pullback toward 128-129 or scale in with reduced size.",
+      "risks": "Overbought RSI increases odds of a near-term mean-reversion pullback."
     },
     {
       "rank": 2,
-      "symbol": "PG",
+      "symbol": "MRNA",
       "conviction": "medium",
-      "thesis": "Solid momentum and sharpe with supportive analyst actions and steady consumer staple demand.",
-      "entry": "Enter on pullback to 166-167; keep position modest given slower 1m momentum.",
-      "risks": "Mixed analyst rating adjustment could signal limited near-term upside."
+      "thesis": "Explosive 6/12-month momentum and high Sharpe reflect strong trend, reinforced by pipeline updates on cancer vaccine program.",
+      "entry": "RSI mid-50s gives room to run; size moderately given biotech volatility and binary pipeline risk.",
+      "risks": "Clinical/regulatory headline risk could reverse momentum quickly."
     },
     {
       "rank": 3,
-      "symbol": "ED",
+      "symbol": "DLTR",
       "conviction": "medium",
-      "thesis": "Defensive utility with strong vol_surge and favorable price target raise, good risk-adjusted momentum.",
-      "entry": "Add on dips near 116; treat as lower-beta short-term holding.",
-      "risks": "Low absolute momentum limits upside if rate environment shifts."
+      "thesis": "Solid momentum and vol surge confirmed by Gates Foundation stake increase and in-line Q3 results/outlook.",
+      "entry": "RSI 68 elevated; consider entry on dip toward 148-150.",
+      "risks": "Guidance updates in retail can quickly shift sentiment if margins disappoint."
     }
   ],
   "long": [
@@ -34,168 +34,164 @@
       "rank": 1,
       "symbol": "DD",
       "conviction": "high",
-      "thesis": "Exceptional 6m/12m momentum, high sharpe, and consistency with positive product news supports durable uptrend.",
-      "entry": "Scale in on pullbacks to 145-148, trend remains intact above rising SMA200.",
-      "risks": "Industrial cyclicality could reverse momentum if demand slows."
+      "thesis": "Strongest long score combo of high 6/12-month momentum, consistency (0.71) and Sharpe (1.22) with healthy uptrend slope.",
+      "entry": "No major news catalyst; accumulate on broader market weakness, use 200-day MA as trend invalidation.",
+      "risks": "Lack of recent news means thesis relies purely on technical trend continuation."
     },
     {
       "rank": 2,
-      "symbol": "OKTA",
+      "symbol": "MRNA",
       "conviction": "high",
-      "thesis": "Strong long-term score backed by multiple bullish price target raises from Wells Fargo and Cantor Fitzgerald.",
-      "entry": "Buy on weakness toward 195-200; negative 1m momentum offers better entry.",
-      "risks": "Security software valuations are sensitive to growth deceleration or competitive pressure."
+      "thesis": "Top long score driven by exceptional 12-month momentum and Sharpe, with incremental positive pipeline news.",
+      "entry": "Phase into position given volatility; avoid sizing up around binary trial readouts.",
+      "risks": "Biotech binary catalysts can cause sharp drawdowns regardless of trend strength."
     },
     {
       "rank": 3,
-      "symbol": "MRNA",
+      "symbol": "OKTA",
       "conviction": "medium",
-      "thesis": "Top long-term score driven by massive 6m/12m momentum and strong sharpe, though Jefferies Hold initiation tempers enthusiasm.",
-      "entry": "Small initial position given volatility; add only on confirmed trend continuation above 200.",
-      "risks": "Binary biotech catalysts and vaccine demand uncertainty create large drawdown risk."
+      "thesis": "Strong long-term momentum and Sharpe supported by bullish analyst action (Wells Fargo PT raise) and partner integrations.",
+      "entry": "Negative 1m momentum suggests waiting for stabilization before adding; use prior swing low as stop reference.",
+      "risks": "Recent 1-month weakness could extend if growth guidance disappoints."
     }
   ],
   "avoid": [
     {
       "symbol": "MPC",
-      "reason": "Negative short-term score and deeply oversold RSI amid refinery divestiture news create near-term uncertainty despite long-term strength."
+      "reason": "Negative short-term momentum, deeply oversold RSI and analyst price target cut despite long-term trend strength."
     },
     {
       "symbol": "VLO",
-      "reason": "Weak short-term momentum and oversold RSI suggest refining sector headwinds despite solid long-term trend."
-    },
-    {
-      "symbol": "EW",
-      "reason": "Repeated price target cuts and guidance scrutiny from multiple analysts contradict otherwise decent momentum."
+      "reason": "Weak short-term momentum and oversold conditions mirror MPC, refiners facing near-term headwinds."
     },
     {
       "symbol": "IDXX",
-      "reason": "Negative long-term score and negative 12-1 momentum despite short-term strength signal trend deterioration."
+      "reason": "Negative 12-month momentum and long score, plus negative Sharpe, undermines the short-term signal quality."
     }
   ],
   "screen": {
     "short": [
       {
         "symbol": "WMT",
-        "score": 1.56,
-        "r3m": 0.2295,
-        "rsi": 67
+        "score": 1.54,
+        "r3m": 0.2683,
+        "rsi": 71
+      },
+      {
+        "symbol": "DLTR",
+        "score": 1.38,
+        "r3m": 0.1672,
+        "rsi": 68
       },
       {
         "symbol": "PG",
-        "score": 1.42,
-        "r3m": 0.168,
-        "rsi": 62
-      },
-      {
-        "symbol": "OKTA",
-        "score": 1.35,
-        "r3m": 0.5781,
-        "rsi": 56
-      },
-      {
-        "symbol": "EW",
-        "score": 1.31,
-        "r3m": 0.1567,
+        "score": 1.37,
+        "r3m": 0.1898,
         "rsi": 66
       },
       {
+        "symbol": "MRNA",
+        "score": 1.35,
+        "r3m": 0.5187,
+        "rsi": 54
+      },
+      {
         "symbol": "IDXX",
-        "score": 1.3,
-        "r3m": 0.249,
-        "rsi": 62
-      },
-      {
-        "symbol": "ED",
-        "score": 1.23,
-        "r3m": 0.1062,
-        "rsi": 56
-      },
-      {
-        "symbol": "COST",
-        "score": 1.23,
-        "r3m": 0.1432,
+        "score": 1.27,
+        "r3m": 0.288,
         "rsi": 67
       },
       {
-        "symbol": "DIS",
-        "score": 1.2,
-        "r3m": 0.0819,
-        "rsi": 61
+        "symbol": "REGN",
+        "score": 1.25,
+        "r3m": 0.2116,
+        "rsi": 68
       },
       {
-        "symbol": "GILD",
-        "score": 1.18,
-        "r3m": 0.1464,
+        "symbol": "A",
+        "score": 1.22,
+        "r3m": 0.182,
+        "rsi": 60
+      },
+      {
+        "symbol": "ABBV",
+        "score": 1.2,
+        "r3m": 0.1424,
+        "rsi": 64
+      },
+      {
+        "symbol": "LLY",
+        "score": 1.19,
+        "r3m": 0.1854,
         "rsi": 60
       },
       {
         "symbol": "BIIB",
-        "score": 1.16,
-        "r3m": 0.1643,
-        "rsi": 61
+        "score": 1.19,
+        "r3m": 0.2181,
+        "rsi": 69
       }
     ],
     "long": [
       {
         "symbol": "MRNA",
-        "score": 2.02,
-        "r3m": 0.3344,
-        "rsi": 48
+        "score": 2.03,
+        "r3m": 0.5187,
+        "rsi": 54
       },
       {
         "symbol": "DD",
         "score": 1.95,
-        "r3m": 0.1123,
-        "rsi": 59
+        "r3m": 0.0917,
+        "rsi": 58
       },
       {
         "symbol": "OKTA",
-        "score": 1.52,
-        "r3m": 0.5781,
-        "rsi": 56
+        "score": 1.5,
+        "r3m": 0.468,
+        "rsi": 52
       },
       {
         "symbol": "MPC",
-        "score": 1.37,
-        "r3m": 0.008,
+        "score": 1.33,
+        "r3m": -0.0193,
         "rsi": 31
       },
       {
         "symbol": "VLO",
-        "score": 1.33,
-        "r3m": -0.0324,
-        "rsi": 32
+        "score": 1.28,
+        "r3m": -0.0671,
+        "rsi": 31
       },
       {
         "symbol": "TGT",
         "score": 1.26,
-        "r3m": 0.0294,
-        "rsi": 62
+        "r3m": 0.0732,
+        "rsi": 69
       },
       {
         "symbol": "PSX",
-        "score": 1.16,
-        "r3m": 0.0016,
+        "score": 1.15,
+        "r3m": -0.0218,
         "rsi": 33
       },
       {
+        "symbol": "PANW",
+        "score": 0.93,
+        "r3m": 0.0402,
+        "rsi": 52
+      },
+      {
+        "symbol": "BIIB",
+        "score": 0.88,
+        "r3m": 0.2181,
+        "rsi": 69
+      },
+      {
         "symbol": "DELL",
-        "score": 1.09,
-        "r3m": -0.2562,
-        "rsi": 42
-      },
-      {
-        "symbol": "HPE",
-        "score": 1.08,
-        "r3m": -0.1005,
-        "rsi": 45
-      },
-      {
-        "symbol": "MU",
-        "score": 0.9,
-        "r3m": -0.2409,
-        "rsi": 42
+        "score": 0.85,
+        "r3m": -0.3659,
+        "rsi": 36
       }
     ]
   },
