@@ -1,288 +1,283 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T06:12:04+00:00",
-  "as_of": "2026-11-23",
+  "generated_at": "2026-11-25T04:58:04+00:00",
+  "as_of": "2026-11-24",
   "market": "SPY",
   "regime": {
     "label": "CRASH",
     "probability": 1.0,
     "confirmed": true,
-    "days": 8,
+    "days": 14,
     "vol": "high",
     "stance": "HighVolDefensive",
     "uncertain": false,
-    "n_regimes": 5
+    "n_regimes": 6
   },
   "history": [
     {
-      "d": "2026-08-31",
-      "regime": "EUPHORIA",
-      "vol": "mid"
-    },
-    {
       "d": "2026-09-01",
-      "regime": "EUPHORIA",
+      "regime": "STRONG_BULL",
       "vol": "mid"
     },
     {
       "d": "2026-09-02",
-      "regime": "EUPHORIA",
-      "vol": "mid"
+      "regime": "WEAK_BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-09-03",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-04",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-08",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-09",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-10",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-11",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-14",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-15",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-16",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-17",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-18",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-21",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-22",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-23",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-24",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-25",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-28",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-29",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-30",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-01",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-02",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-05",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-06",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-07",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-08",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-09",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-12",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-13",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-14",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-15",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-16",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-19",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-20",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-21",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-22",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-23",
-      "regime": "BEAR",
+      "regime": "WEAK_BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-26",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-10-27",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-10-28",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-10-29",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-10-30",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-11-02",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-11-03",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-11-04",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-11-05",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-11-06",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "STRONG_BEAR",
+      "vol": "mid"
     },
     {
       "d": "2026-11-09",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "high"
     },
     {
       "d": "2026-11-10",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "high"
     },
     {
       "d": "2026-11-11",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "high"
     },
     {
       "d": "2026-11-12",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "high"
     },
     {
       "d": "2026-11-13",
-      "regime": "BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "high"
     },
     {
       "d": "2026-11-16",
@@ -313,35 +308,40 @@
       "d": "2026-11-23",
       "regime": "CRASH",
       "vol": "high"
+    },
+    {
+      "d": "2026-11-24",
+      "regime": "CRASH",
+      "vol": "high"
     }
   ],
   "picks": {
     "short": [
       {
         "symbol": "WMT",
-        "score": 1.56
+        "score": 1.539
+      },
+      {
+        "symbol": "DLTR",
+        "score": 1.376
       },
       {
         "symbol": "PG",
-        "score": 1.42
+        "score": 1.366
       },
       {
-        "symbol": "OKTA",
-        "score": 1.352
-      },
-      {
-        "symbol": "EW",
-        "score": 1.312
+        "symbol": "MRNA",
+        "score": 1.351
       },
       {
         "symbol": "IDXX",
-        "score": 1.297
+        "score": 1.273
       }
     ],
     "long": [
       {
         "symbol": "MRNA",
-        "score": 2.017
+        "score": 2.026
       },
       {
         "symbol": "DD",
@@ -349,15 +349,15 @@
       },
       {
         "symbol": "OKTA",
-        "score": 1.517
+        "score": 1.504
       },
       {
         "symbol": "MPC",
-        "score": 1.368
+        "score": 1.335
       },
       {
         "symbol": "VLO",
-        "score": 1.331
+        "score": 1.278
       }
     ]
   },
