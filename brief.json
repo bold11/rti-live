@@ -1,76 +1,72 @@
 {
   "schema": 1,
-  "as_of": "2026-11-26",
+  "as_of": "2026-11-27",
   "universe_size": 317,
-  "overview": "Breadth is solid among defensive retail and quality compounders, with momentum concentrated in consumer staples/discretionary names posting strong earnings (TGT, DLTR, WMT) and biotech/industrials showing multi-month trend strength (MRNA, DD). MPC shows deteriorating short-term momentum (RSI oversold, negative 1m/3m) despite long-term score, a red flag. OKTA carries a security breach headline that warrants caution despite strong trend. Overall market favors selective quality/momentum names with confirmed earnings catalysts.",
+  "overview": "Breadth is mixed: defensive retail/staples (WMT, DLTR, PG, TGT) show strong steady momentum with high consistency, while MRNA and DD stand out on long-term trend strength driven by outsized 6-12m returns. MPC's quant long score is undercut by deteriorating short-term momentum and oversold RSI, a bearish divergence. OKTA has a security breach headline worth monitoring despite price target raises. Overall, prefer quality consumer staples/retail for short-term carry and biotech/industrial trend plays for longer holds.",
   "short": [
     {
       "rank": 1,
-      "symbol": "DLTR",
+      "symbol": "WMT",
       "conviction": "high",
-      "thesis": "Strong Q3 beat, raised guidance, vol surge and high RSI confirm active momentum with Gates Foundation stake increase as supportive catalyst.",
-      "entry": "Consider scaling in on any pullback toward 145-148; avoid chasing above 155.",
-      "risks": "RSI near overbought and high vol_surge could mean short-term exhaustion."
+      "thesis": "Strong vol-adjusted momentum and high Sharpe with AI/marketplace catalysts supporting continued uptrend.",
+      "entry": "Buy on dips toward 128-129 (near dist_sma200 support); size normally given high RSI (69.9) suggests near-term chop.",
+      "risks": "Overbought RSI could trigger a short-term pullback if holiday sales disappoint."
     },
     {
       "rank": 2,
-      "symbol": "WMT",
+      "symbol": "DLTR",
       "conviction": "medium",
-      "thesis": "Consistent multi-horizon momentum and AI/marketplace initiatives support steady uptrend with high Sharpe.",
-      "entry": "Enter on dips near 128-130; invalidate if price breaks below 200d trend support.",
-      "risks": "RSI near 70 suggests limited near-term upside before consolidation."
+      "thesis": "Positive earnings reaction, raised price target, and strong vol_surge confirm momentum alongside notable institutional buying.",
+      "entry": "Consider scaling in after any post-earnings consolidation near 148-150; avoid chasing extended highs.",
+      "risks": "High vol_surge signals crowded trade risk; discount retail margins remain pressured by tariffs/input costs."
     },
     {
       "rank": 3,
-      "symbol": "PG",
+      "symbol": "DIS",
       "conviction": "medium",
-      "thesis": "Defensive staple with strong vol-adjusted momentum and positive analyst price target revisions.",
-      "entry": "Buy on modest pullback near 168-170; small position size given low volatility upside.",
-      "risks": "Slower absolute momentum versus peers limits near-term catalyst strength."
+      "thesis": "Momentum plus positive legal/regulatory news (ABC injunction) and AI strategy reorg support near-term upside.",
+      "entry": "Enter on pullback to 122-123; keep position small given mixed historical consistency (0.48).",
+      "risks": "Legal/regulatory overhang on media assets could reverse sentiment quickly."
     }
   ],
   "long": [
     {
       "rank": 1,
-      "symbol": "TGT",
+      "symbol": "MRNA",
       "conviction": "high",
-      "thesis": "Raised full-year outlook, strong Sharpe and consistency, plus AI inventory initiatives support durable uptrend.",
-      "entry": "Accumulate on pullbacks to 165-168 with full position size given high consistency score.",
-      "risks": "Retail sector remains sensitive to consumer spending slowdown."
+      "thesis": "Exceptional 6-12m momentum and top long score reflect renewed confidence in pipeline, especially personalized cancer vaccine updates.",
+      "entry": "Build position gradually; use pullbacks toward 200-205 (dist_sma200 cushion) and cap size due to biotech volatility.",
+      "risks": "Binary clinical/regulatory readouts could sharply reverse sentiment despite strong trend."
     },
     {
       "rank": 2,
       "symbol": "DD",
       "conviction": "high",
-      "thesis": "Strong 6/12-month momentum and high Sharpe reflect sustained industrial re-rating with no negative news.",
-      "entry": "Enter in tranches, adding on dips to 148-150; watch 200d slope for trend continuation.",
-      "risks": "High mom_12_1 could mean stretched valuation vulnerable to mean reversion."
+      "thesis": "Strong 6-12m trend, high consistency and Sharpe reflect durable industrial recovery with no negative news.",
+      "entry": "Accumulate near 148-150 support; standard position size given high consistency score.",
+      "risks": "Cyclical industrial demand slowdown or input cost inflation could stall momentum."
     },
     {
       "rank": 3,
-      "symbol": "MRNA",
-      "conviction": "medium",
-      "thesis": "Exceptional 6/12-month momentum and improving pipeline outlook support long-term re-rating from depressed base.",
-      "entry": "Use small initial position given biotech volatility, add on confirmation above 225.",
-      "risks": "Binary clinical/regulatory catalysts could cause sharp reversals."
+      "symbol": "OKTA",
+      "conviction": "low",
+      "thesis": "Strong long-term trend and analyst price target hike support upside, but recent security breach headline is a red flag.",
+      "entry": "Wait for clarity on breach investigation before adding; if entering, use reduced size near 190-195.",
+      "risks": "Security incident could damage enterprise trust and reverse the recent re-rating."
     }
   ],
   "avoid": [
     {
       "symbol": "MPC",
-      "reason": "Short-term score negative with oversold RSI and negative 1m/3m momentum despite long-term quant strength, plus union/merger controversy headline."
-    },
-    {
-      "symbol": "OKTA",
-      "reason": "Security breach headline (Inception/ShinyHunters link) creates reputational/operational risk despite strong long-term trend."
+      "reason": "Despite decent long score, oversold RSI, negative 1m/3m momentum and weak sentiment suggest the long-term trend is breaking down."
     },
     {
       "symbol": "IDXX",
-      "reason": "Negative 12-1 momentum and negative Sharpe contradict short-term quant score, long-term score outright negative."
+      "reason": "Negative 12-1m momentum, negative Sharpe and low consistency undermine the short-term quant signal with no supportive news catalyst."
     },
     {
-      "symbol": "DIS",
-      "reason": "Legal controversy over Character.AI asset sale adds headline risk despite decent short-term momentum."
+      "symbol": "TGT",
+      "reason": "Decent long score but muted 3m momentum and generic news flow offer limited differentiated catalyst versus peers like WMT/DLTR."
     }
   ],
   "screen": {
