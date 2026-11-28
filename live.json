@@ -1,317 +1,317 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-27T04:22:24+00:00",
-  "as_of": "2026-11-25",
+  "generated_at": "2026-11-28T04:02:40+00:00",
+  "as_of": "2026-11-27",
   "market": "SPY",
   "regime": {
-    "label": "CRASH",
+    "label": "EUPHORIA",
     "probability": 1.0,
     "confirmed": true,
     "days": 13,
     "vol": "high",
     "stance": "HighVolDefensive",
     "uncertain": false,
-    "n_regimes": 6
+    "n_regimes": 4
   },
   "history": [
     {
-      "d": "2026-09-02",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
-    },
-    {
       "d": "2026-09-03",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-04",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-08",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-09",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-10",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-11",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-14",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-15",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-16",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-17",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-18",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-21",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-22",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-23",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-24",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-25",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-28",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-29",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-09-30",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-01",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-02",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-05",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-06",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-07",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-08",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-09",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-12",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-13",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-14",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-15",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-16",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-19",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-20",
-      "regime": "WEAK_BEAR",
-      "vol": "mid"
+      "regime": "BEAR",
+      "vol": "low"
     },
     {
       "d": "2026-10-21",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-22",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-23",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-26",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-27",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-28",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-29",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-10-30",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-11-02",
-      "regime": "STRONG_BEAR",
+      "regime": "BEAR",
       "vol": "low"
     },
     {
       "d": "2026-11-03",
-      "regime": "STRONG_BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "mid"
     },
     {
       "d": "2026-11-04",
-      "regime": "STRONG_BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "mid"
     },
     {
       "d": "2026-11-05",
-      "regime": "STRONG_BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "mid"
     },
     {
       "d": "2026-11-06",
-      "regime": "STRONG_BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "mid"
     },
     {
       "d": "2026-11-09",
-      "regime": "STRONG_BEAR",
-      "vol": "low"
+      "regime": "CRASH",
+      "vol": "mid"
     },
     {
       "d": "2026-11-10",
-      "regime": "STRONG_BEAR",
-      "vol": "low"
+      "regime": "EUPHORIA",
+      "vol": "high"
     },
     {
       "d": "2026-11-11",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-12",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-13",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-16",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-17",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-18",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-19",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-20",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-23",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-24",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
       "vol": "high"
     },
     {
       "d": "2026-11-25",
-      "regime": "CRASH",
+      "regime": "EUPHORIA",
+      "vol": "high"
+    },
+    {
+      "d": "2026-11-27",
+      "regime": "EUPHORIA",
       "vol": "high"
     }
   ],
@@ -319,45 +319,45 @@
     "short": [
       {
         "symbol": "WMT",
-        "score": 1.463
-      },
-      {
-        "symbol": "DLTR",
-        "score": 1.375
+        "score": 1.414
       },
       {
         "symbol": "PG",
-        "score": 1.337
+        "score": 1.293
       },
       {
         "symbol": "IDXX",
-        "score": 1.273
+        "score": 1.241
       },
       {
-        "symbol": "DIS",
-        "score": 1.234
+        "symbol": "DLTR",
+        "score": 1.224
+      },
+      {
+        "symbol": "REGN",
+        "score": 1.18
       }
     ],
     "long": [
       {
         "symbol": "MRNA",
-        "score": 2.02
+        "score": 2.029
       },
       {
         "symbol": "DD",
-        "score": 1.951
-      },
-      {
-        "symbol": "OKTA",
-        "score": 1.539
-      },
-      {
-        "symbol": "TGT",
-        "score": 1.283
+        "score": 1.958
       },
       {
         "symbol": "MPC",
-        "score": 1.253
+        "score": 1.324
+      },
+      {
+        "symbol": "OKTA",
+        "score": 1.294
+      },
+      {
+        "symbol": "TGT",
+        "score": 1.256
       }
     ]
   },
